@@ -1,5 +1,5 @@
 # Aukimor Polaris Kernel
-11
+111
 小米 MIX 2S（polaris / SDM845 / Android 10 / MIUI 12）自编译内核。
 
 **内核版本**：`4.9.186-Aukimor`（基于官方 dipper-q-oss + 88-zstd 社区分支）
